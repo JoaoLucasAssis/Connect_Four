@@ -1,3 +1,4 @@
+<center>
 # Connect-Four
 
 `Connect Four` é um jogo criado em linguagem C.
@@ -6,7 +7,7 @@
 
 ## Contribuíntes
 
-* *João Lucas de Assis Oliveira* - [📧](<joaolucasdeassis.o@gmail.com>)
+* *João Lucas de Assis Oliveira* [📧](<joaolucasdeassis.o@gmail.com>)
 
 ## Como funciona?
 
@@ -76,3 +77,4 @@ void jogar() {
 ## Licensas
 
 Este repositório não possui lincesas de uso.
+</center>
