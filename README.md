@@ -2,6 +2,8 @@
 
 `Connect Four` é um jogo criado em linguagem C.
 
+⚠️Código ainda em andamento⚠️
+
 ## Contribuíntes
 
 * *João Lucas de Assis Oliveira*
