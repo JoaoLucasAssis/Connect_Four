@@ -1,1 +1,2 @@
-txt/*
+# Ignore arquivos de texto
+*.txt
