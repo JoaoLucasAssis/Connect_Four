@@ -1,5 +1,3 @@
-<div align="center">
-
 # Connect-Four
 
 `Connect Four` é um jogo criado em linguagem C.
@@ -78,4 +76,3 @@ void jogar() {
 ## Licensas
 
 Este repositório não possui lincesas de uso.
-</div>
