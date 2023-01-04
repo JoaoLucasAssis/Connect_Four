@@ -12,10 +12,11 @@
 
 O jogo é uma matriz composta por 6 linhas e 7 colunas.
 
+![imagem do jogo](game.png)
+
 Para vencer, os jogadores devem formar uma reta com 4 peças em quaisquer direções.
 
 ## Principais funções
-
 
 ### Inicializar o jogo 
 
