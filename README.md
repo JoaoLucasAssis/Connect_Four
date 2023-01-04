@@ -6,7 +6,7 @@
 
 ## Contribuíntes
 
-* *João Lucas de Assis Oliveira* <joaolucasdeassis.o@gmail.com>
+* *João Lucas de Assis Oliveira* [e-mail](<joaolucasdeassis.o@gmail.com>)
 
 ## Como funciona?
 
