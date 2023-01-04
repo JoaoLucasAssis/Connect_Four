@@ -2,7 +2,7 @@
 
 `Connect Four` é um jogo criado em linguagem C.
 
-⚠️Código ainda em andamento⚠️
+⚠️em andamento⚠️
 
 ## Contribuíntes
 
@@ -12,13 +12,13 @@
 
 O jogo é uma matriz composta por 6 linhas e 7 colunas.
 
-![imagem do jogo](game.png)
-
 Para vencer, os jogadores devem formar uma reta com 4 peças em quaisquer direções.
 
-## Principais funções
+![imagem do jogo](game.png)
 
-### Inicializar o jogo 
+## Principais funções:
+
+### - Inicializar o jogo  -
 
 ```c
 for(int i = 0; i < linha; i++) {
@@ -27,7 +27,7 @@ for(int i = 0; i < linha; i++) {
   }
 ```
 
-### jogar
+### - jogar -
 ```c
 void jogar() {
   
