@@ -14,7 +14,7 @@ O jogo é uma matriz composta por 6 linhas e 7 colunas.
 
 Para vencer, os jogadores devem formar uma reta com 4 peças em quaisquer direções.
 
-![imagem do jogo](game.png)
+<a href="https://replit.com/@jaolucas17/Connect-Four#main.c">![imagem do jogo](game.png)</a>
 
 ## Principais funções:
 
